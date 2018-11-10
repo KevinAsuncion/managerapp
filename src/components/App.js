@@ -26,7 +26,6 @@ class App extends Component {
                     <Text>
                         Hello from the app component    
                     </Text>
-                    <Button />
                 </View>
             </Provider>
         );
